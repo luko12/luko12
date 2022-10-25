@@ -2,7 +2,7 @@
 
 🔭 I’m looking for roles in full stack, data & GIS
 
-🛠 I’m currently working on [Peaze](https://www.peaze.com/), a non-custodial crypto wallet SDK that abstracts away the crypto UX
+🛠 I’m currently working on [Peaze](https://www.peaze.com/), a non-custodial crypto wallet SDK that abstracts away the crypto UX for mainstream users
 
 💡 Other Projects: 
 * [Climate Crossroads](https://cute-figolla-1c2cdd.netlify.app/), a webmap to visualize climate data intersections in the USA
