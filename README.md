@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m looking for roles in full stack, data & GIS
-
-🛠 I’m currently working on [Peaze](https://www.peaze.com/), a non-custodial crypto wallet SDK that abstracts away the crypto UX for mainstream users
+🛠 I’m currently working at [Key Capture Energy](https://www.keycaptureenergy.com/), a utility-scale battery energy storage development company. I'm building tools to automate site prospecting using ArcGIS and Python.
 
 💡 Other Projects: 
 * [Climate Crossroads](https://cute-figolla-1c2cdd.netlify.app/), a webmap to visualize climate data intersections in the USA
