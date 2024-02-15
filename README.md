@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🛠 I’m currently working at [Key Capture Energy](https://www.keycaptureenergy.com/), a utility-scale battery energy storage development company. I'm building tools to automate site prospecting using ArcGIS and Python.
+🛠 I’m currently working at [Key Capture Energy](https://www.keycaptureenergy.com/), a utility-scale battery energy storage development company. 
 
 💡 Other Projects: 
 * [Climate Crossroads](https://cute-figolla-1c2cdd.netlify.app/), a webmap to visualize climate data intersections in the USA
